@@ -16,6 +16,7 @@
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>

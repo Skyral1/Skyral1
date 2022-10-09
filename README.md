@@ -30,7 +30,7 @@ I started programming on **December, 2021**. With some experience, I started pro
   
 - Learn other languages like **TypeScript, Java**, etc.
 - Create a **Professional Discord Bot**, and if it's possible, a verified one.
-- Create **Discord Bots templates** on GitHub([Already one available](https://github.com/Skyral1/Discord-bot)).
+- Create **Discord Bots templates** on GitHub ([Already one available](https://github.com/Skyral1/Discord-bot)).
   
 <h2>📊 Stats:</h2>
 

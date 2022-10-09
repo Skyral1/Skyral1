@@ -12,7 +12,7 @@
 
 ---
 
-👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **JavaScript**, **HTML** and **CSS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
+👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **JavaScript** and **Python**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>

@@ -36,7 +36,7 @@ I started programming on **December, 2021**. With some experience, I started pro
 
 <a href="https://github.com/Skyral1"><img src="https://komarev.com/ghpvc/?username=Skyral1" alt="Profile Views"/></a>
 
-<img alt="Discord Status" src="https://lanyard.cnrad.dev/api/601863117621690399?bg=1f1f1f&borderRadius=5px"> <img src="https://github-readme-stats.vercel.app/api?username=Skyral1&show_icons=true&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyral1&layout=compact&theme=dark)](https://github.com/Skyral1)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/601863117621690399)](https://discord.com/users/601863117621690399) <img src="https://github-readme-stats.vercel.app/api?username=Skyral1&show_icons=true&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyral1&layout=compact&theme=dark)](https://github.com/Skyral1)
 
 -----
 

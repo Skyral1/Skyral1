@@ -12,14 +12,15 @@
 
 ---
 
-👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **JavaScript** and **Python**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
+👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **React.js** and **Python**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
+<a href="https://reactjs.org/"><img src ="https://img.icons8.com/color/30/react-native.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>

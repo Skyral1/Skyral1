@@ -39,6 +39,6 @@ I started programming on **December, 2021**. With some experience, I started pro
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/601863117621690399)](https://discord.com/users/601863117621690399) <img src="https://github-readme-stats.vercel.app/api?username=Skyral1&show_icons=true&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyral1&layout=compact&theme=dark)](https://github.com/Skyral1)
 
------
+<!-- -----
 
-I am currently working on the [Pteranodon](https://github.com/Ilanbeebey/pteranodon) project with [@Ilanbeebey](https://github.com/Ilanbeebey)
+I am currently working on the [Pteranodon](https://github.com/Ilanbeebey/pteranodon) project with [@Ilanbeebey](https://github.com/Ilanbeebey) -->

@@ -18,6 +18,7 @@
 
 > <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>

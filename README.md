@@ -12,33 +12,36 @@
 
 ---
 
-👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **React.js** and **Python**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
+👋 Hi, my name is **Skyral**, I'm from Belgium and I'm a **full stack developer** apprentice. At the moment, I am learning **React.js** and **JS**. I am looking forward to continue programming and I have many projects in mind that I will publish soon.
 
-> <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
-<a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/></a>
+### Technologies I use
+
+> <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
+
+### Languages I use
+
+> <a href="https://www.php.net/"><img src="https://img.icons8.com/color/30/000000/php.png"></a>
+<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"></a>
 <!-- <a href="https://reactjs.org/"><img src ="https://img.icons8.com/color/30/react-native.png"></a> -->
 
-I started programming on **December, 2021**. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects (like [Pteranodon](https://github.com/Ilanbeebey/pteranodon)). Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **JavaScript, HTML and CSS**.
+I started programming on **December, 2021**. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **JavaScript and PHP**.
   
 <h2>📝 Future Goals:</h2>
   
 - Learn other languages like **TypeScript, Java**, etc.
-- Create a **Professional Discord Bot**, and if it's possible, a verified one.
-- Create **Discord Bots templates** on GitHub ([Already one available](https://github.com/Skyral1/Discord-bot)).
+- Create a **Professional Discord Bot**.
+- And much more.
+<!-- - Create **Discord Bots templates** on GitHub ([Already one available](https://github.com/Skyral1/Discord-bot)). -->
   
 <h2>📊 Stats:</h2>
 
 <a href="https://github.com/Skyral1"><img src="https://komarev.com/ghpvc/?username=Skyral1" alt="Profile Views"/></a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/601863117621690399)](https://discord.com/users/601863117621690399) <img src="https://github-readme-stats.vercel.app/api?username=Skyral1&show_icons=true&theme=radical" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyral1&layout=compact&theme=dark)](https://github.com/Skyral1)
-
-<!-- -----
-
-I am currently working on the [Pteranodon](https://github.com/Ilanbeebey/pteranodon) project with [@Ilanbeebey](https://github.com/Ilanbeebey) -->
